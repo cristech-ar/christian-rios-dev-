@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Christian Rios**!  
+# 👋 Hi there, I'm **Cristian Rios**!  
 
 🌍 **Welcome to my GitHub!** I'm a **Software Developer** with over **5 years of experience** in development and more than **10 years in IT roles**. My focus lies in building scalable and efficient applications using modern JavaScript frameworks and libraries.  
 
